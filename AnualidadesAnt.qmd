@@ -1,0 +1,14 @@
+author: "Oscar Arciniega Patricio"
+format: html
+editor: visual
+---
+
+## Uso de fórmulas para anualidades anticipadas
+
+Aquí cargo las funciones de mi anualidades vencidas desde mi Repositorio de: [GitHub](https://github.com/OscarArciniegaPatricio/AnualidadesAnticipadas)
+
+Se cargan las funciones de manera remota:
+
+```{r}
+source("https://raw.githubusercontent.com/OscarArciniegaPatricio/AnualidadesAnticipadas/refs/heads/main/AnualidadesAnticipadas.R")
+```
